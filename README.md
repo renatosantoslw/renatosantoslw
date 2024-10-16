@@ -2,7 +2,9 @@
 Sou um apaixonado por tecnologia, sempre em busca de aprender e colaborar em projetos inovadores em diversas areas da tecnologia da informação seja em hardware ou software.
 
 ## Sobre
--  Atualmente estou trabalhando com CFTV.
+-  Recentenmente comecei a montar o meu repositório.
+-  Trabalho a mais de 10 anos com automação comercial.
+-  Atualmente estou trabalhando com segurança eletrônica.
 -  Estou aprimorando meus conhecimentos em front-end e back-end.
 -  Estou procurando colaborar em algum projeto.
 -  Curiosidade: Tenho hiperfoco em tecnologia, fixação em resoluçaõ de problemas e facilidade de aprendizado.
