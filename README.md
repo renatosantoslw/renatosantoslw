@@ -7,7 +7,7 @@ Sou um apaixonado por tecnologia, sempre em busca de aprender e colaborar em pro
 -  Atualmente estou trabalhando com segurança eletrônica.
 -  Estou aprimorando meus conhecimentos em front-end e back-end.
 -  Estou procurando colaborar em algum projeto.
--  Curiosidade: Tenho hiperfoco em tecnologia, fixação em resoluçaõ de problemas e facilidade de aprendizado.
+-  Curiosidade: Tenho hiperfoco em tecnologia, fixação em resolução de problemas e facilidade de aprendizado.
 -  Pode entrar em contado comigo.
 
 ## Estatistiscas dos repositórios
